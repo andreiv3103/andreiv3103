@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreiv3103
-- 👀 I’m interested in PowerShell, Python.
+- 👀 I’m interested in PowerShell, Python, automation, cloud IaaS.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on PowerShell based projects. Python is still in learning phase.
 - 📫 How to reach me: E-mail (andreiv3103@gmail.com)
