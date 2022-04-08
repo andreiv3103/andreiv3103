@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreiv3103
+- 👋 Hi, I’m Andrei.
 - 👀 I’m interested in PowerShell, Python, automation, cloud, IaaS.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on PowerShell based projects. Python is still in learning phase.
